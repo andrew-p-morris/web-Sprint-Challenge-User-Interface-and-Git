@@ -1,0 +1,19 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+I would say that semantic element are named after what you code in them. Like a table will go in a table tag
+
+Name two big differences between display: block; and display: inline;.
+
+Display in line allows you to set the height and width of an element. ALso it lets you display item vertically
+
+What are the 4 areas of the box model?
+
+content, padding, border, margin
+
+While using flexbox, what axis does the following property work on: align-items: center?
+
+cross axis
+
+Explain why git is valuable to a team of developers.
+
+it allows multiple users to work on the same project. THey can share work a lot easier
